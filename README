@@ -1,0 +1,7 @@
+GPU mmc.1gh.com miner for Linux x86_64
+
+Requirements:
+ AMD GPU with 2G+ RAM.
+ Propriatary AMD driver (full Catalyst suite)
+
+Start mmc-miner binary without parameters to get usage help.
